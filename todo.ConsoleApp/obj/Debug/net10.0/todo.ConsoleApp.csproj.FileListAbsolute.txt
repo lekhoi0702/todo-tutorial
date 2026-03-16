@@ -1,0 +1,14 @@
+C:\Users\khoi.le\Desktop\learn-csharp\todo-tutorial\todo.ConsoleApp\bin\Debug\net10.0\todo.ConsoleApp.exe
+C:\Users\khoi.le\Desktop\learn-csharp\todo-tutorial\todo.ConsoleApp\bin\Debug\net10.0\todo.ConsoleApp.deps.json
+C:\Users\khoi.le\Desktop\learn-csharp\todo-tutorial\todo.ConsoleApp\bin\Debug\net10.0\todo.ConsoleApp.runtimeconfig.json
+C:\Users\khoi.le\Desktop\learn-csharp\todo-tutorial\todo.ConsoleApp\bin\Debug\net10.0\todo.ConsoleApp.dll
+C:\Users\khoi.le\Desktop\learn-csharp\todo-tutorial\todo.ConsoleApp\bin\Debug\net10.0\todo.ConsoleApp.pdb
+C:\Users\khoi.le\Desktop\learn-csharp\todo-tutorial\todo.ConsoleApp\obj\Debug\net10.0\todo.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khoi.le\Desktop\learn-csharp\todo-tutorial\todo.ConsoleApp\obj\Debug\net10.0\todo.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\khoi.le\Desktop\learn-csharp\todo-tutorial\todo.ConsoleApp\obj\Debug\net10.0\todo.ConsoleApp.AssemblyInfo.cs
+C:\Users\khoi.le\Desktop\learn-csharp\todo-tutorial\todo.ConsoleApp\obj\Debug\net10.0\todo.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\khoi.le\Desktop\learn-csharp\todo-tutorial\todo.ConsoleApp\obj\Debug\net10.0\todo.ConsoleApp.dll
+C:\Users\khoi.le\Desktop\learn-csharp\todo-tutorial\todo.ConsoleApp\obj\Debug\net10.0\refint\todo.ConsoleApp.dll
+C:\Users\khoi.le\Desktop\learn-csharp\todo-tutorial\todo.ConsoleApp\obj\Debug\net10.0\todo.ConsoleApp.pdb
+C:\Users\khoi.le\Desktop\learn-csharp\todo-tutorial\todo.ConsoleApp\obj\Debug\net10.0\todo.ConsoleApp.genruntimeconfig.cache
+C:\Users\khoi.le\Desktop\learn-csharp\todo-tutorial\todo.ConsoleApp\obj\Debug\net10.0\ref\todo.ConsoleApp.dll
