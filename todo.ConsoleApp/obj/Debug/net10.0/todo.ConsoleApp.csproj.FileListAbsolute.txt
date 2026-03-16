@@ -12,3 +12,4 @@ C:\Users\khoi.le\Desktop\learn-csharp\todo-tutorial\todo.ConsoleApp\obj\Debug\ne
 C:\Users\khoi.le\Desktop\learn-csharp\todo-tutorial\todo.ConsoleApp\obj\Debug\net10.0\todo.ConsoleApp.pdb
 C:\Users\khoi.le\Desktop\learn-csharp\todo-tutorial\todo.ConsoleApp\obj\Debug\net10.0\todo.ConsoleApp.genruntimeconfig.cache
 C:\Users\khoi.le\Desktop\learn-csharp\todo-tutorial\todo.ConsoleApp\obj\Debug\net10.0\ref\todo.ConsoleApp.dll
+C:\Users\khoi.le\Desktop\learn-csharp\todo-tutorial\todo.ConsoleApp\obj\Debug\net10.0\todo.ConsoleApp.sourcelink.json
